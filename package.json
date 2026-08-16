@@ -1,0 +1,6 @@
+{
+  "name": "shelfwise-library",
+  "version": "1.0.0",
+  "description": "Role based library management system",
+  "scripts": { "start": "node server.js" }
+}
