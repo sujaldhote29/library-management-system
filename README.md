@@ -12,11 +12,11 @@ The server creates a persistent `data.json` database file on first run. Books an
 
 ## Demo accounts
 
-| Role | Email | Password |
-| --- | --- | --- |
-| Admin | aarav@shelfwise.io | admin123 |
-| Librarian | maya@shelfwise.io | library123 |
-| Member | noah@shelfwise.io | member123 |
+| Role      | Email              | Password   |
+| --------- | ------------------ | ---------- |
+| Admin     | aarav@shelfwise.io | admin123   |
+| Librarian | maya@shelfwise.io  | library123 |
+| Member    | noah@shelfwise.io  | member123  |
 
 ## Backend features
 
